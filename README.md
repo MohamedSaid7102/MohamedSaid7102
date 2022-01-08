@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 
 <img src="./GitHub Cover Image.png" />
 
- <a href="https://app.daily.dev/Mohamed_Shelf"><img src="https://api.daily.dev/devcards/d7c2d416415e46b38f2ab26db5ee0cd2.png?r=lse" width="400" alt="Mohamed Shelf's Dev Card"/></a>
+<!--  <a href="https://app.daily.dev/Mohamed_Shelf"><img src="https://api.daily.dev/devcards/d7c2d416415e46b38f2ab26db5ee0cd2.png?r=lse" width="400" alt="Mohamed Shelf's Dev Card"/></a> -->
  
