@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+👨‍💻 I'm Mohamed S.Shelf, They often call me **Shelf**
+
+ ☪  Muslim
+ 🌟 Arab
+ 💻 CS Student
+ 🎨 Designer & Front-end developer
+ 
+ 🔭 I'm currently working on developing my skills to be a Junior Front-end Developer.
+ 
+ <a href="https://app.daily.dev/Mohamed_Shelf"><img src="https://api.daily.dev/devcards/d7c2d416415e46b38f2ab26db5ee0cd2.png?r=lse" width="400" alt="Mohamed Shelf's Dev Card"/></a>
