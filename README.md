@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="./GitHub Cover Image.png" />
+<!--<img src="./GitHub Cover Image.png" />-->
 
 <h1 align="center">Hi 👋, I'm Mohamed Shelf</h1>
 <h3 align="center">Junior Front-end developer looking for an internship or a Junior Front-end position.</h3>
