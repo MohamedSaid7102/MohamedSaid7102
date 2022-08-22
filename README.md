@@ -4,6 +4,8 @@
 
 <h2 align="center">Junior Front-end developer looking for an internship or a Junior Front-end position.</h2>
 
+<h2 align="center"><a href="https://drive.google.com/file/d/1Brn0fAnrC36ombk8pCSLbPJ_NEirAKrz/view?usp=sharing">My Resume</a></h2>
+
 <h2 align="left">Skills: </h2>
 <p align="left">
 
@@ -181,14 +183,3 @@
       src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="mohamed-s-shelf" height="50" width="50" /></a>
 </p>
 <hr>
-
-<p>
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=mohamedsaid7102&show_icons=true&locale=en"
-    alt="mohamedsaid7102" />
-</p>
-
-<p>
-  <img align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedsaid7102&show_icons=true&locale=en&layout=compact"
-    alt="mohamedsaid7102" />
-</p>
