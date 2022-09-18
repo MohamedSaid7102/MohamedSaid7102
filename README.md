@@ -9,6 +9,7 @@
 <hr/>
 
 ## To make it easy for you navigating my repos just remeber this algorithm for my repos names:
+## Adjust the search to search by Name and follow this:
 
 ```js
 let softwaresMohamedShelfDeveloped = []; /*<list-of-all-softwares-I-worked-on>*/
