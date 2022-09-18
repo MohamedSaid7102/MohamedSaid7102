@@ -4,7 +4,34 @@
 
 <h2 align="center">Junior Front-end developer looking for an internship or a Junior Front-end position.</h2>
 
+<hr/>
 <h2 align="center"><a href="https://drive.google.com/file/d/1xottCwqBNinp5TFranV0Fa9WfJtdmsYu/view?usp=sharing">My Resume</a></h2>
+<hr/>
+
+## To make it easy for you navigating my repos just remeber this algorithm for my repos names:
+
+```js
+let softwaresMohamedShelfDeveloped = []; /*<list-of-all-softwares-I-worked-on>*/
+
+let reposNames = softwaresShelfDeveloped.map((sw) => {
+  let swType = sw.type;
+  let swName = sw.name;
+
+  if (swType === 'Games') return `game---${swName}`;
+
+  if (swType === 'HTML & CSS & JS Website') return `website---${swName}`;
+
+  if (swType === 'React.js') return `reactjs---${swName}`;
+
+  if (swType === 'React Native') return `react-native---${swName}`;
+
+  if (swType === 'Desktop') return `desktop---${swName}`;
+
+  if (swType === 'AI') return `AI---${swName}`;
+});
+```
+
+<hr/>
 
 <h2 align="left">Skills: </h2>
 <p align="left">
@@ -64,7 +91,6 @@
     alt="react" width="40" height="40" />
 </a>
 <hr />
-
 
 <!-- Libraries  -->
 <h3 align="left">Libraries: </h3>
@@ -152,12 +178,10 @@
 <!-- Back-end  -->
 <h3 align="left">Back-end: </h3>
 
-
 <a href="https://nodejs.org" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
     alt="nodejs" width="40" height="40" />
 </a>
-
 
 </p>
 
