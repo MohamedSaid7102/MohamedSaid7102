@@ -8,8 +8,7 @@
 <h2 align="center"><a href="https://drive.google.com/file/d/1xottCwqBNinp5TFranV0Fa9WfJtdmsYu/view?usp=sharing">My Resume</a></h2>
 <hr/>
 
-## To make it easy for you navigating my repos just remeber this algorithm for my repos names:
-## Adjust the search to search by Name and follow this:
+## To make it easy for you navigating my repos, Adjust the search to search by Name and just remeber this algorithm for my repos names
 
 ```js
 let softwaresMohamedShelfDeveloped = []; /*<list-of-all-softwares-I-worked-on>*/
