@@ -31,6 +31,13 @@ let reposNames = softwaresShelfDeveloped.map((sw) => {
 });
 ```
 
+### I prefixed some repos names with `AA---` or `ZZ---` or `ZZAA---` to make them appear at the very top or the very bottom according to their importance, so that if you adjust the search to `search by name` you will see:
+
+1. All my (small => medium) HTML, CSS, JS projects.
+1. My react.js projects.
+1. my big HTML, CSS, JS projects.
+1. At last you will find less important repos that are not relevant to front-end like (AI, Desktop, ...).
+
 <hr/>
 
 <h2 align="left">Skills: </h2>
