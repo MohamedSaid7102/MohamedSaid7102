@@ -28,6 +28,8 @@ let reposNames = softwaresShelfDeveloped.map((sw) => {
   if (swType === 'Desktop') return `desktop---${swName}`;
 
   if (swType === 'AI') return `AI---${swName}`;
+  
+  if (swType === 'C++') return `C++---${swName}`;
 });
 ```
 
