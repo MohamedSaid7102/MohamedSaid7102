@@ -3,7 +3,7 @@
 
 ### Hi 👋, I'm Mohamed Shelf, You can call me Shelf.
 
-- **Take a look 👀 at my [My Resume]([https://drive.google.com/file/d/1sc_ZodmQ00R60dRyOYS7q_dXNbqKc3Fw/view?usp=sharing](https://drive.google.com/file/d/1jPKYG3KWFWgaOp1r1DX193bwO3vxmYlo/view?usp=sharing))📰.**
+- **Take a look 👀 at my [My Resume](https://drive.google.com/file/d/1jPKYG3KWFWgaOp1r1DX193bwO3vxmYlo/view?usp=sharing)📰.**
 
 - Senior computer science student 👨‍💻, and a Chess player ♟.
 
